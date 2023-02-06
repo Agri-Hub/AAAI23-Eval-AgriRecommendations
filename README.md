@@ -35,7 +35,7 @@ In the table below, variable identifier, description and source are presented fo
 
 The Agriculture Cooperative of Orchomenos collected and provided the required data for each field (i.e. geo-referenced boundaries, sowing & harvest date, seed variety, yield). We then combined this data with publicly available observations from heterogeneous sources (i.e., Sentinel-2 images, meteo measurements, soil maps) to engineer an observational dataset that enables the causal analysis.
 
-One is able to find the observational dataset under the directory `data/data.csv`. An extended description of dataset follows in the next table. 
+One is able to find the observational dataset in the `data.csv` file. An extended description of dataset follows in the next table. 
 
 | **Variable** 	| **Description** 	| **Source** 	|
 |---	|---	|---	|
