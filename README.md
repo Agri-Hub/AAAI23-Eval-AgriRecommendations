@@ -82,11 +82,14 @@ The code was developed and tested in Python 3.8.5. To install the dependencies r
 If you use somehow our work please cite this
 
 ```
-@article{tsoumas2022evaluating,
-  title={Evaluating Digital Agriculture Recommendations with Causal Inference},
+@inproceedings{tsoumas2023evaluating,
+  title={Evaluating digital agriculture recommendations with causal inference},
   author={Tsoumas, Ilias and Giannarakis, Georgios and Sitokonstantinou, Vasileios and Koukos, Alkiviadis and Loka, Dimitra and Bartsotas, Nikolaos and Kontoes, Charalampos and Athanasiadis, Ioannis},
-  journal={arXiv preprint arXiv:2211.16938},
-  year={2022}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={12},
+  pages={14514--14522},
+  year={2023}
 }
 ```
 
